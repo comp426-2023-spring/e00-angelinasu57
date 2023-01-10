@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=sleepy grasshopper car potatoes 012345
+EXAMCODE=icG2oERU
 
 echo ${EXAMCODE}
